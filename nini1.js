@@ -148,7 +148,7 @@ var menuItems = [
 
     ["Home","index.html", , , , "_self", , , , ],
     ["Reiki Ryoho","ReikiRyoho.html", , , , , , , , ],
-    ["Gendai Reiki Hô","GendaiReikiHo.html", , , , "_self", , , , ],
+    ["Gendai Reiki HÃ´","GendaiReikiHo.html", , , , "_self", , , , ],
     ["Komyo ReikiDo","KomyoReikiKai.html", , , , "_self", , , , ],
     ["Reiki Courses","ReikiCourses.html", , , , "_self", , , , ],
     ["Reiki for Youngsters","ReikiforYoung.html", , , , "_self", , , , ],
