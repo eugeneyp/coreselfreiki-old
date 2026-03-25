@@ -1,0 +1,28 @@
+.PageTitle {
+	FONT: bold 13px Arial; TEXT-TRANSFORM: none; COLOR: #cc0000; TEXT-DECORATION: none
+}
+.Cotation {
+	FONT: bold 14px "Bradley Hand ITC"; TEXT-TRANSFORM: none; COLOR: #ff9900; TEXT-DECORATION: none
+}
+.textby {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #ff9900; FONT-STYLE: normal; FONT-FAMILY: Arial; FONT-VARIANT: normal
+}
+.textunderline {
+	FONT: bold 12px Arial; TEXT-TRANSFORM: none; COLOR: #000000; TEXT-DECORATION: none
+}
+.textbody {
+	FONT: 12px Arial; TEXT-TRANSFORM: none; COLOR: #000000; TEXT-DECORATION: none
+}
+.textbody1 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 20px; TEXT-TRANSFORM: none; FONT-STYLE: normal; FONT-FAMILY: Arial; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+.bubulinaluelyssa {
+	font-family: "Comic Sans MS";
+	font-size: 24px;
+	font-weight: bolder;
+}
+.addtext {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+}
